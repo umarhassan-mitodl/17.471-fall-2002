@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides links to related resources for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,12 +9,12 @@ video_metadata:
   youtube_id: null
 ---
 
-*   Deutch, John, et al, "[National Missile Defense: Is there another way?](http://www.foreignpolicy.com/articles/2009/10/21/what_missile_defense)" Foreign Policy Magazine, 2000.
-*   Dulles, John Foster, "[Massive Retaliation](http://www.britannica.com/EBchecked/topic/421797/nuclear-strategy/52987/Massive-retaliation)".
-*   [FBI Racial Violence Potential in the US This Summer, 1967](http://www.gwu.edu/~nsarchiv/coldwar/documents/episode-13/01-01.htm) \[classified memo\].
-*   [National Security Strategy of the United States](https://georgewbush-whitehouse.archives.gov/nsc/nss/2002/). 2002
-*   Nelson, Lars-Erik, "[Fantasia](http://www.nybooks.com/articles/115)," The New York Review of Books, 11 May 2001.
-*   [NSC-68](https://www.mtholyoke.edu/acad/intrel/nsc-68/nsc68-1.htm); 
-*   [Sino-Soviet Conflict](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB49/) (source material).
-*   Thompson Jr., James C., "[How Could Vietnam Happen? An Autopsy](http://www.theatlantic.com/issues/68apr/vietnam.htm)," The Atlantic Monthly, April, Vol. 221, No. 4., 1968, pp. 41-53.
-*   U.S. State Department (2002), [Patterns of Global Terrorism 2001](https://2009-2017.state.gov/j/ct/rls/crt/2001//index.htm)_._
+*   Deutch, John, et al, "{{% resource_link "1a5118e2-5d9b-4d44-b2e5-e584fd7bcf89" "National Missile Defense: Is there another way?" %}}" Foreign Policy Magazine, 2000.
+*   Dulles, John Foster, "{{% resource_link "16cf017f-098f-498a-a9b8-3a3357a1e898" "Massive Retaliation" %}}".
+*   {{% resource_link "5a177423-f149-47f6-9a4b-760cbe14b66d" "FBI Racial Violence Potential in the US This Summer, 1967" %}} \[classified memo\].
+*   {{% resource_link "0e2309d3-ddef-48ff-9154-672426644892" "National Security Strategy of the United States" %}}. 2002
+*   Nelson, Lars-Erik, "{{% resource_link "bbf5b9ed-b8d5-46fe-8cb8-ee135d55f16f" "Fantasia" %}}," The New York Review of Books, 11 May 2001.
+*   {{% resource_link "512ecdb1-9c7c-41e8-b9a4-9173d287f841" "NSC-68" %}}; 
+*   {{% resource_link "d4dc41c5-5218-41a0-98c3-838987078e4b" "Sino-Soviet Conflict" %}} (source material).
+*   Thompson Jr., James C., "{{% resource_link "2a5f239f-9283-4248-a596-17d1800b1f25" "How Could Vietnam Happen? An Autopsy" %}}," The Atlantic Monthly, April, Vol. 221, No. 4., 1968, pp. 41-53.
+*   U.S. State Department (2002), {{% resource_link "ad4ce6ed-463f-48ac-a25b-40b96c272f07" "Patterns of Global Terrorism 2001" %}}_._

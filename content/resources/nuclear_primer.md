@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-471-american-national-security-policy-fall-2002/d9b3a1ded3afb8af2fb352c280d989ba_Nuclear_Primer.pdf
 file_size: 20815
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
